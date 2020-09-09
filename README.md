@@ -68,7 +68,9 @@ Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una str
 
 ### Installazione d’arte sonora - visiva
 
-La musica utilizza la scansione temporale dell'orologio sovrastante la fontana per la generazione sonora. 
+La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrastante per la generazione musicale e visiva. Gli eventi sonori e visivi
+
+
 
 ## 04. VALORE SOCIALE
 
