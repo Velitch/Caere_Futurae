@@ -34,10 +34,24 @@ Sound Artist ~
 
 Volunteer Archeologist *
 
+----------
+
 ## Tedesco
 ### Giulia
 
+@giulia_tedesco
+
 27 anni
+
+Creative Designer
+
+Plants Lover
+
+Food Taster
+
+Travelers Addicted
+
+-----------
 
 ## 03. FONTANA DEL MASCHERONE
 
