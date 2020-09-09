@@ -34,7 +34,7 @@ Sound Artist ~
 
 Volunteer Archeologist *
 
-(#)soundinstallation
+(#)electroacustic (#)soundinstallation (#)electronicmusic (#)spatialsound (#)algorithm (#)contemporaryart (#)artsound (#)liveelectronics
 
 ----------
 
@@ -53,7 +53,7 @@ Food Taster
 
 Travelers Addicted
 
-(#)
+(#)(#)spatialdesign
 
 -----------
 
