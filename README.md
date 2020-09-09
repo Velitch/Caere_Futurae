@@ -15,6 +15,7 @@ Riscoperta e valorizzazione dei siti monumentali ed archeologici del territorio 
 - Installazioni audio visive
 - Concerti
 - Mostre
+- Esperienze multisensoriali
 - Video mapping
 
 Le attivitá sono pensate sia in forma permanente, quali per esempio installazioni fruibili gratuitamente durante tutto l'anno, sia in forma temporanea, quali concerti e mostre.
@@ -59,9 +60,18 @@ Travelers Addicted
 
 ## 03. FONTANA DEL MASCHERONE
 
+### Storia del monumento
+
 anno: 1881
 
 Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una struttura architettonica a facciata scandita su due livelli, il più alto, concluso da un timpano semicircolare, ospita un orologio. La porta inferiore, con parete a bugnato, racchiude tra due colonne addossate la fontana vera e propria, inserita in una nicchia ad arco. E’ caratterizzata da un mascherone e due animali marini ai lati che gettano acqua nella vasca sottostante. Al di sopra vi è lo stemma della città e una lapide marmorea incisa, che celebra il ritrovamento delle antiche falde acquifere etrusche di Cerveteri e la data di costruzione della stessa.
+
+### Installazione d’arte sonora - visiva
+
+La musica utilizza la scansione temporale dell'orologio sovrastante la fontana per la generazione sonora. 
+L’opera interagisce con i visitatori che con la loro presenza e movimenti danno vita alle variazioni musicali. I timbri seguono la forma plastica, austeri e gravi alla base, lungo i suoi elementi si trasformano quasi a divenire un canto corale che si diffonde nello spazio circostante e si libera nell’aria. 
+L’intreccio musicale che ne deriva costruisce un contrappunto delicato, non invasivo, che dialoga tra le due logge.
+
 
 ## 04. VALORE SOCIALE
 
