@@ -59,6 +59,10 @@ Travelers Addicted
 
 ## 03. FONTANA DEL MASCHERONE
 
+anno: 1881
+
+Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una struttura architettonica a facciata scandita su due livelli, il più alto, concluso da un timpano semicircolare, ospita un orologio. La porta inferiore, con parete a bugnato, racchiude tra due colonne addossate la fontana vera e propria, inserita in una nicchia ad arco. E’ caratterizzata da un mascherone e due animali marini ai lati che gettano acqua nella vasca sottostante. Al di sopra vi è lo stemma della città e una lapide marmorea incisa, che celebra il ritrovamento delle antiche falde acquifere etrusche di Cerveteri e la data di costruzione della stessa.
+
 ## 04. VALORE SOCIALE
 
 ### Divulazione culturale
@@ -77,6 +81,8 @@ Travelers Addicted
 - x2 sensore presenza
 - x2 arduino
 - x1 armadio/rack
+- x1 proiettore
+- x1 gruppo di continuitá
 - cavi
 
 ## 06. CONCLUSIONI
