@@ -31,7 +31,7 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 ## VALORE SOCIALE
 
-### COSTI
+## COSTI
 
 - x3 diffusori
 - x1 amplificatore
