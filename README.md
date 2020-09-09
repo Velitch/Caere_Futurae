@@ -34,7 +34,7 @@ Sound Artist ~
 
 Volunteer Archeologist *
 
-(#)electroacustic (#)soundinstallation (#)electronicmusic (#)spatialsound (#)algorithm (#)contemporaryart (#)artsound (#)liveelectronics
+(#)electroacustic (#)soundinstallation (#)electronicmusic (#)spatialsound (#)algorithm (#)contemporaryart (#)artsound (#)liveelectronics (#)sounddesign
 
 ----------
 
@@ -64,6 +64,8 @@ Travelers Addicted
 ### Divulazione culturale
 
 - Realizzazione di un sito web raggiungibile tramite QRcode contenente informazioni riguardo il monumento e l'installazione annessa. (formato testo - audio - video per favorirne la fruibilitá).
+
+-
 
 ## 05. COSTI
 
