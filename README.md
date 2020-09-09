@@ -24,12 +24,28 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 ## Velitchkova 
 ### Gabriela Krassimirova
 
+@velitch
+
+26 anni, Cerveteri
+
+Electroacustic Composer //
+
+Sound Artist ~
+
+Volunteer Archeologist *
+
 ## Tedesco
 ### Giulia
+
+27 anni
 
 ## 03. FONTANA DEL MASCHERONE
 
 ## 04. VALORE SOCIALE
+
+### Divulazione culturale
+
+- Realizzazione di un sito web raggiungibile tramite QRcode contenente informazioni riguardo il monumento e l'installazione annessa. (formato testo - audio - video per favorirne la fruibilitá).
 
 ## 05. COSTI
 
