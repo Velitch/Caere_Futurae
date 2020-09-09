@@ -1,14 +1,30 @@
 # Fontana del Mascherone
 Progetto per l'installazione audio visiva al monumento "Fontana del Mascherone", Cerveteri
 
-### CAERE FUTURAE
+## CAERE FUTURAE
 
-### CHI SIAMO
+Valorizzazione del territorio attraverso l'ausilio dell'arte contemporanea.
 
-### FONTANA DEL MASCHERONE
+Cerveteri futuro polo culturale.
 
-### VALORE SOCIALE
+Installazioni audio visive
+Concerti
+Mostre
+Video mapping
+
+
+## CHI SIAMO
+
+## Velitchkova 
+### Gabriela Krassimirova
+
+## Tedesco
+### Giulia
+
+## FONTANA DEL MASCHERONE
+
+## VALORE SOCIALE
 
 ### COSTI
 
-### CONCLUSIONI
+## CONCLUSIONI
