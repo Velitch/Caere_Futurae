@@ -69,9 +69,6 @@ Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una str
 ### Installazione d’arte sonora - visiva
 
 La musica utilizza la scansione temporale dell'orologio sovrastante la fontana per la generazione sonora. 
-L’opera interagisce con i visitatori che con la loro presenza e movimenti danno vita alle variazioni musicali. I timbri seguono la forma plastica, austeri e gravi alla base, lungo i suoi elementi si trasformano quasi a divenire un canto corale che si diffonde nello spazio circostante e si libera nell’aria. 
-L’intreccio musicale che ne deriva costruisce un contrappunto delicato, non invasivo, che dialoga tra le due logge.
-
 
 ## 04. VALORE SOCIALE
 
