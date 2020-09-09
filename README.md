@@ -3,7 +3,7 @@ Progetto per l'installazione audio visiva al monumento "Fontana del Mascherone",
 
 ---------------------
 
-## CAERE FUTURAE
+## 01. CAERE FUTURAE
 
 ### OBIETTIVO: 
 
@@ -19,7 +19,7 @@ Riscoperta e valorizzazione dei siti monumentali ed archeologici del territorio 
 
 Le attivitá sono pensate sia in forma permanente, quali per esempio installazioni fruibili gratuitamente durante tutto l'anno, sia in forma temporanea, quali concerti e mostre.
 
-## CHI SIAMO
+## 02. CHI SIAMO
 
 ## Velitchkova 
 ### Gabriela Krassimirova
@@ -27,11 +27,11 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 ## Tedesco
 ### Giulia
 
-## FONTANA DEL MASCHERONE
+## 03. FONTANA DEL MASCHERONE
 
-## VALORE SOCIALE
+## 04. VALORE SOCIALE
 
-## COSTI
+## 05. COSTI
 
 - x3 diffusori
 - x1 amplificatore
@@ -43,4 +43,4 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 - x1 armadio/rack
 - cavi
 
-## CONCLUSIONI
+## 06. CONCLUSIONI
