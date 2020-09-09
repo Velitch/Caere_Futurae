@@ -81,6 +81,8 @@ Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una str
 - x2 sensore presenza
 - x2 arduino
 - x1 armadio/rack
+- x1 proiettore
+- x1 gruppo di continuitá
 - cavi
 
 ## 06. CONCLUSIONI
