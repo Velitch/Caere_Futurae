@@ -34,6 +34,8 @@ Sound Artist ~
 
 Volunteer Archeologist *
 
+(#)soundinstallation
+
 ----------
 
 ## Tedesco
@@ -41,7 +43,7 @@ Volunteer Archeologist *
 
 @giulia_tedesco
 
-27 anni
+27 anni, Roma
 
 Creative Designer
 
@@ -50,6 +52,8 @@ Plants Lover
 Food Taster
 
 Travelers Addicted
+
+(#)
 
 -----------
 
