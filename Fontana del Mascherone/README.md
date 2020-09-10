@@ -2,6 +2,15 @@
 Progetto per l'installazione audio visiva al monumento "Fontana del Mascherone", Cerveteri
 
 <img src= "https://github.com/Velitch/Caere_Futurae/blob/master/Fontana%20del%20Mascherone/Presentazione/01_Illustrazioni/Illustrazione_03.jpg" height="400"><img src= "https://github.com/Velitch/Caere_Futurae/blob/master/Immagini/fontana_del_mascherone.jpg" height="350">
+__________
+
+# INDICE
+## 01. CAERE FUTURAE
+## 02. CHI SIAMO
+## 03. FONTANA DEL MASCHERONE
+## 04. VALORE SOCIALE
+## 05. COSTI
+__________
 
 ## 01. CAERE FUTURAE
 
@@ -22,41 +31,7 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 ## 02. CHI SIAMO
 
-## Velitchkova 
-### Gabriela Krassimirova
 
-@velitch
-
-26 anni, Cerveteri
-
-Electroacustic Composer //
-
-Sound Artist ~
-
-Volunteer Archeologist *
-
-(#)electroacustic (#)soundinstallation (#)electronicmusic (#)spatialsound (#)algorithm (#)contemporaryart (#)artsound (#)liveelectronics (#)sounddesign
-
-----------
-
-## Tedesco
-### Giulia
-
-@giulia_tedesco
-
-27 anni, Roma
-
-Creative Designer
-
-Plants Lover
-
-Food Taster
-
-Travelers Addicted
-
-(#)(#)spatialdesign
-
------------
 
 ## 03. FONTANA DEL MASCHERONE
 
