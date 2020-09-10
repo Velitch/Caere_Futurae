@@ -85,14 +85,17 @@ La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrasta
 
 - x3 diffusori acustici - 1200
 - x1 amplificatore - 400
-- x1 scheda audio - 350
+- x1 scheda audio - 450
 - x1 pc - 1200
 - x1 router/wifi - 50
-- x2 sensore presenza - 20
+- x4 sensore presenza - 80
 - x2 arduino - 60
 - x1 armadio/rack - 900
-- x1 proiettore
-- x1 gruppo di continuitá - 180
+- x1 proiettore 2500
+- x1 gruppo di continuitá - 160
 - cavi - 1000
 
+TOTALE = 9000
+
 ## 06. CONCLUSIONI
+
