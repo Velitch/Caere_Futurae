@@ -41,25 +41,10 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 ### Divulazione culturale digitale
 
-- Realizzazione di un sito web raggiungibile tramite QRcode contenente informazioni riguardo il monumento e l'installazione annessa. (formato testo - audio - video per favorirne la fruibilitá).
+- Realizzazione di un sito web/social raggiungibile tramite QRcode contenente informazioni sull'opera. (formato testo - audio - video per favorirne la fruibilitá).
 
 ### Integrazione dell'opera moderna nel contesto urbano
 
-- Riqualificazione del territorio favorita dall'arte "accessibile". Rispetto ed aumentazione del decoro dei siti storici attraverso l'arte multidisciplinare.
+- Riqualificazione del territorio favorita dall'arte "accessibile". Rispetto ed aumentazione del decoro dei siti urbani attraverso l'arte multidisciplinare.
 
 ## 05. COSTI
-
-- x3 diffusori acustici - 1200
-- x1 amplificatore - 400
-- x1 scheda audio - 450
-- x1 pc - 1400
-- x1 router/wifi - 50
-- x4 sensore presenza - 80
-- x4 arduino - 120
-- x1 armadio/rack - 900
-- x1 proiettore 2500
-- x1 gruppo di continuitá - 160
-- cavi - 1000
-personale tecnico - 6000
-
-TOTALE = 14260 
