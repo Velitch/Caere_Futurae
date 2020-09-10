@@ -2,8 +2,8 @@
 _________
 ### LINK VIDEO INSTALLAZIONI
 
-[]()
-[]()
+[Galizia/Lupone @ MACRO - OASI Adaptive sculptural-musical installation](https://www.youtube.com/watch?v=4EmUoXvGxSE)
+[In Coro - Trio Plastico: adaptive music sculptures, Lupone - Galizia](https://www.youtube.com/watch?v=keEJdNFb1Jg&t=344s)
 []()
 
 _________
