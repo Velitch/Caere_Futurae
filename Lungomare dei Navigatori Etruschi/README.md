@@ -39,6 +39,9 @@ __________
 
 # 03. SCULTURE MUSICALI-VISIVE
 
+[Sculture Sonore, D.Tedesco,2020 - link paper](https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/Davide_Tedesco_Sonic_Sculptures_Sculture_Sonore_Paper_di_presentazione.pdf)
+
+
 ### Breve descrizione
 
 Sculture da realizzare in materiale risonante(da specificare e.g. in legno, vetroresina, acciaio o
@@ -46,7 +49,6 @@ altro materiale), che attraverso la cavità interna ed un trasduttore(eccitatore
 grado di trasmettere onde sonore al materiale al cui è applicato) posto sotto la base della scultura,
 sulla scultura stessa ed in posizioni da concordare con lo scultore, emette suono e permette
 l’interazione con l’ambiente ed i visitatori.
-
 
 Esempio di eccitatore elettrodinamico posto su un pannello di legno.
 
@@ -122,6 +124,7 @@ e render dinamica un’opera statica, lasciando ampio margine di realizzazione e
 tutti coloro che crederanno e penseranno che la loro arte possa arricchire culturalmente le opere
 qui descritte.
 
+
 __________
 
 # 04. LUNGOMARE DEI NAVIGATORI ETRUSCHI
@@ -137,3 +140,4 @@ __________
 # 05. COSTI
 
 __________
+
