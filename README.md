@@ -1,4 +1,6 @@
-# CAERE FUTURAE <img src="https://github.com/Velitch/Caere_Futurae/blob/master/Fontana%20del%20Mascherone/Presentazione/01_Illustrazioni/Illustrazione_04.jpg" height="200">
+<img src="https://github.com/Velitch/Caere_Futurae/blob/master/Fontana%20del%20Mascherone/Presentazione/01_Illustrazioni/Illustrazione_04.jpg" height="500">
+
+# CAERE FUTURAE 
 
 ### OBIETTIVO: 
 
