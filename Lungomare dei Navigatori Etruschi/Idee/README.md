@@ -12,6 +12,8 @@ _________
 
 [Galizia/Lupone @ MACRO - OASI Adaptive sculptural-musical installation](https://www.youtube.com/watch?v=4EmUoXvGxSE)
 
+[Mare Oscuro - Licia Galizia e Michelangelo Lupone](https://www.youtube.com/watch?v=tH_uAj1AX-Q)
+
 [In Coro - Trio Plastico: adaptive music sculptures, Lupone - Galizia](https://www.youtube.com/watch?v=keEJdNFb1Jg&t=344s)
 
 [Via dei Canti - Trevi nel Lazio, Bianchini - Galizia](https://www.youtube.com/watch?v=Tsbun5k20pY&t=56s)
