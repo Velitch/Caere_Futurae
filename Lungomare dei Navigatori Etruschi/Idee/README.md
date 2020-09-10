@@ -2,9 +2,13 @@
 _________
 ### LINK VIDEO INSTALLAZIONI
 
-[]()
-[]()
-[]()
+[Galizia/Lupone @ MACRO - OASI Adaptive sculptural-musical installation](https://www.youtube.com/watch?v=4EmUoXvGxSE)
+
+[In Coro - Trio Plastico: adaptive music sculptures, Lupone - Galizia](https://www.youtube.com/watch?v=keEJdNFb1Jg&t=344s)
+
+[Via dei Canti - Trevi nel Lazio, Bianchini - Galizia](https://www.youtube.com/watch?v=Tsbun5k20pY&t=56s)
+
+[Echi d’acqua - Matera, 2019](https://www.youtube.com/watch?v=aKMj7FIYgTg)
 
 _________
 
