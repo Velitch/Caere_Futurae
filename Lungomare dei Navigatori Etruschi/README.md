@@ -132,14 +132,15 @@ tutti coloro che crederanno e penseranno che la loro arte possa arricchire cultu
 qui descritte.
 
 
-## 04. VALORE SOCIALE
-
-### Divulazione culturale digitale
-
-- Realizzazione di un sito web/social raggiungibile tramite QRcode contenente informazioni sull'opera. (formato testo - audio - video per favorirne la fruibilitá).
+# 04. VALORE SOCIALE
 
 ### Integrazione dell'opera moderna nel contesto urbano
 
 - Riqualificazione del territorio favorita dall'arte "accessibile". Rispetto ed aumentazione del decoro dei siti urbani attraverso l'arte multidisciplinare.
 
-## 05. COSTI
+### Divulazione culturale digitale
+
+- Realizzazione di un sito web/social raggiungibile tramite QRcode contenente informazioni sull'opera. (formato testo - audio - video per favorirne la fruibilitá).
+
+
+# 05. COSTI
