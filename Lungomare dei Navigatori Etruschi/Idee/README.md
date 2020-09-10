@@ -44,7 +44,7 @@ _________
 
 ## VIA DEI CANTI
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI2.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI.jpg" height = "350"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI2.jpg" height = "350">
 
 _________
 
