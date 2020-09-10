@@ -31,7 +31,7 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 ## 02. CHI SIAMO
 
-
+<img src="https://github.com/Velitch/Caere_Futurae/blob/master/Immagini/chi_siamo.jpg">
 
 ## 03. FONTANA DEL MASCHERONE
 
