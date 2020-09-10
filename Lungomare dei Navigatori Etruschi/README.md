@@ -45,11 +45,7 @@ __________
 
 __________
 
-## INSTALLAZIONI AUDIO VISIVE
-__________
-## Sonic Sculptures - Sculture Sonore
-### 2020
-### di Davide Tedesco
+## INSTALLAZIONI AUDIO VISIVE - ## Sculture Sonore, ### 2020, ### di Davide Tedesco
 __________
 
 ## Breve descrizione
