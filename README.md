@@ -89,13 +89,13 @@ La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrasta
 - x1 pc - 1400
 - x1 router/wifi - 50
 - x4 sensore presenza - 80
-- x2 arduino - 60
+- x4 arduino - 120
 - x1 armadio/rack - 900
 - x1 proiettore 2500
 - x1 gruppo di continuitá - 160
 - cavi - 1000
+personale tecnico - 6000
 
-TOTALE = 9200
+TOTALE = 14260 
 
-## 06. CONCLUSIONI
 
