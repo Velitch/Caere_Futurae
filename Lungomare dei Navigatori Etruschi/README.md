@@ -18,6 +18,8 @@ __________
 
 - Cerveteri futuro polo culturale.
 
+- Far caricare la foto dell'opera sui social.
+
 ### COME:
 Riscoperta e valorizzazione dei siti monumentali ed archeologici del territorio caerite attraverso l'ausilio dell'arte contemporanea:
 
