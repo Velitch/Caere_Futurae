@@ -50,6 +50,8 @@ grado di trasmettere onde sonore al materiale al cui è applicato) posto sotto l
 sulla scultura stessa ed in posizioni da concordare con lo scultore, emette suono e permette
 l’interazione con l’ambiente ed i visitatori.
 
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/es1.jpg">
+
 Esempio di eccitatore elettrodinamico posto su un pannello di legno.
 
 
