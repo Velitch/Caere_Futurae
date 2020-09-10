@@ -73,11 +73,13 @@ La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrasta
 
 ## 04. VALORE SOCIALE
 
-### Divulazione culturale
+### Divulazione culturale digitale
 
 - Realizzazione di un sito web raggiungibile tramite QRcode contenente informazioni riguardo il monumento e l'installazione annessa. (formato testo - audio - video per favorirne la fruibilitá).
 
--
+### Integrazione dell'opera moderna nel contesto urbano
+
+- Riqualificazione del territorio favorita dall'arte "accessibile"
 
 ## 05. COSTI
 
