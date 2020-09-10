@@ -25,6 +25,13 @@ _________
 
 <img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg">
 
+
+### Massimiliano Mascaro, Structure 1.2 - installazione audiovisiva olofonica 
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro.jpg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro_2.jpg">
+
 _________
 
 ## DOCUMENTI
