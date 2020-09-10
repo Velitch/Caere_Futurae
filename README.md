@@ -1,6 +1,6 @@
 # CAERE FUTURAE
 
-![Alt text](https://github.com/Velitch/Caere_Futurae/blob/master/Fontana%20del%20Mascherone/Presentazione/01_Illustrazioni/Illustrazione_04.jpg)
+![Alt text](https://github.com/Velitch/Caere_Futurae/blob/master/Fontana%20del%20Mascherone/Presentazione/01_Illustrazioni/Illustrazione_04.jpg, widht = 200)
 
 ### OBIETTIVO: 
 
