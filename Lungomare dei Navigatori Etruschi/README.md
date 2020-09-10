@@ -39,8 +39,6 @@ __________
 
 # 03. SCULTURE MUSICALI-VISIVE
 
-## SCULTURE MUSICALI-VISIVE
-
 [Sculture Sonore, D.Tedesco,2020 - link paper](https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/Davide_Tedesco_Sonic_Sculptures_Sculture_Sonore_Paper_di_presentazione.pdf)
 
 
