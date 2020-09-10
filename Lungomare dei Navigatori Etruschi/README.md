@@ -18,6 +18,8 @@ __________
 
 - Cerveteri futuro polo culturale.
 
+- Utilizzo di materiali sostenibile/reciclato.
+
 - Far caricare la foto dell'opera sui social.
 
 ### COME:
