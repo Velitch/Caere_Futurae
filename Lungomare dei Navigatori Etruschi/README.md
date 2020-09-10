@@ -143,6 +143,12 @@ __________
 
 __________
 
+## LE INSTALLAZIONI
+
+- L'OPERA DELL'OZIO: 
+  - Zona dove sedersi
+
+
 # 05. COSTI
 
 __________
