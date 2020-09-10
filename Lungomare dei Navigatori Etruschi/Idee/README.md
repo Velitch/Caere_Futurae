@@ -20,13 +20,13 @@ _________
 
 ## Massimiliano Mascaro, Flussi Sonori 2.0 Un corso incessante | SIGNS
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg" height "400">
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_2.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_2.jpg" height "400">
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_3.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_3.jpg" height "400">
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg" height "400">
 
 _________
 
