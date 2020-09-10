@@ -1,6 +1,7 @@
 # LINK IDEE - LUNGOMARE DEI NAVIGATORI ETRUSCHI
 _________
-### LINK VIDEO INSTALLAZIONI
+
+## LINK VIDEO INSTALLAZIONI
 
 [Galizia/Lupone @ MACRO - OASI Adaptive sculptural-musical installation](https://www.youtube.com/watch?v=4EmUoXvGxSE)
 
@@ -12,7 +13,9 @@ _________
 
 _________
 
-### FOTO INSTALLAZIONI
+## FOTO INSTALLAZIONI
+
+### Massimiliano Mascaro, Flussi Sonori 2.0 Un corso incessante | SIGNS
 
 <img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg">
 
