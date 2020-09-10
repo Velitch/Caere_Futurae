@@ -33,7 +33,7 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 ## 03. LUNGOMARE DEI NAVIGATORI ETRUSCHI
 
-[GOOGLE MAPS](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9714599,12.0357754,17z/data=!3m1!4b1!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
+[GOOGLE MAPS](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9710306,12.0382249,3a,75y,324.67h,93.51t/data=!3m7!1e1!3m5!1s9UmKkDEJTEzfqNQ42WFsuQ!2e0!3e11!7i16384!8i8192!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
 
 
 ## 04. VALORE SOCIALE
