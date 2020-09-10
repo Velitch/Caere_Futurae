@@ -68,7 +68,8 @@ Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una str
 
 ### Installazione d’arte sonora - visiva
 
-La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrastante per la generazione degli eventi musicali e visivi. La sua identitá, in quanto governata dal tempo, é mutevole ed adattiva. Le stagioni, il meteo, il via vai delle persone in Piazza Risorgimento condizionano la sua espressione, mai uguale a se stessa ed in continua evoluzione.   
+La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrastante per la generazione degli eventi musicali e visivi. La sua identitá adattiva é sensibile alle stagioni, al meteo, al via vai delle persone in Piazza Risorgimento. In una lenta evoluzione condizionata dal trascorrere del tempo, l'opera esprime il suo carattere mutevole e contemporaneo, lasciando al visitatore la possibilitá di contemplarla in una forma coerente ma mai uguale a se stessa.
+
 
 ## 04. VALORE SOCIALE
 
