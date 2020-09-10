@@ -42,6 +42,12 @@ _________
 <img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/grotta_risonante_matera.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/suono_curvo_matera.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/superficie_riflettente_matera.jpg">
 _________
 
+## VIA DEI CANTI
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/VIA%20DEI%20CANTI2.jpg">
+
+_________
+
 ## Massimiliano Mascaro, Flussi Sonori 2.0 Un corso incessante | SIGNS
 
 <img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_2.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_3.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg" height = "300">
