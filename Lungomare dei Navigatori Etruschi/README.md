@@ -10,6 +10,8 @@ __________
 ## 05. COSTI
 __________
 
+<img src = "https://github.com/Velitch/Caere_Futurae/raw/master/Immagini/Illustrazione_piazza_s_maria_maggiore.jpg">
+
 # 01. CAERE FUTURAE
 
 ### OBIETTIVO: 
@@ -32,13 +34,15 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 <img src="https://github.com/Velitch/Caere_Futurae/blob/master/Immagini/chi_siamo.jpg">
 
-## 03. LUNGOMARE DEI NAVIGATORI ETRUSCHI
+# 03. LUNGOMARE DEI NAVIGATORI ETRUSCHI
 
 [GOOGLE MAPS - VISTA LUNGOMARE STATO ATTUALE](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9710306,12.0382249,3a,75y,324.67h,93.51t/data=!3m7!1e1!3m5!1s9UmKkDEJTEzfqNQ42WFsuQ!2e0!3e11!7i16384!8i8192!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
 
 [PROGETTO DI RIQUALIFICAZIONE DEL LUNGOMARE](quando ce lo manda egidi.chiara@gmail.com)
 
-## 03. INSTALLAZIONI AUDIO VISIVE
+
+
+## INSTALLAZIONI AUDIO VISIVE
 __________
 ## Sonic Sculptures - Sculture Sonore
 ### 2020
