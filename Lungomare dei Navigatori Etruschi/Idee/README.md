@@ -18,26 +18,29 @@ _________
 # FOTO INSTALLAZIONI
 _________
 
+## Michelangelo Lupone, Laura Bianchini, Licia Galizia - PLANOFONI in tutte le salse
+
+## MAREOSCURO
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/mareoscuro.jpeg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni3.jpg">
+_________
+
+## ACQUA E SIMILI
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/acqua.jpeg" height = "350"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni1.jpeg" height = "350"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni2.jpeg" height = "350">
+_________
+
 ## Massimiliano Mascaro, Flussi Sonori 2.0 Un corso incessante | SIGNS
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg">
-
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_2.jpg">
-
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_3.jpg">
-
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_1.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_2.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_3.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Flussi_Mascaro_4.jpg" height = "300">
 
 _________
 
 ## Massimiliano Mascaro, Structure 1.2 - installazione audiovisiva olofonica 
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro.jpg">
-
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro_2.jpg">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro_2.jpg">
 
 _________
-
 
 ## DOCUMENTI
 
