@@ -8,7 +8,7 @@ _________
 _________
 
 
-# LINK VIDEO INSTALLAZIONI
+## LINK VIDEO INSTALLAZIONI
 
 [Galizia/Lupone @ MACRO - OASI Adaptive sculptural-musical installation](https://www.youtube.com/watch?v=4EmUoXvGxSE)
 
@@ -22,7 +22,7 @@ _________
 
 _________
 
-# FOTO INSTALLAZIONI
+## FOTO INSTALLAZIONI
 _________
 
 ## Michelangelo Lupone, Laura Bianchini, Licia Galizia - PLANOFONI in tutte le salse
