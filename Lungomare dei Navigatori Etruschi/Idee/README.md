@@ -38,6 +38,25 @@ _________
 
 _________
 
+## Michelangelo Lupone, Laura Bianchini, Licia Galizia - PLANOFONI in tutte le salse
+
+## MAREOSCURO
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/mareoscuro.jpeg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/mare%20oscuro_2.jpeg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni3.jpg">
+
+## ACQUA E SIMILI
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/acqua.jpeg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni.jpg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni1.jpeg">
+
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni2.jpeg">
 
 ## DOCUMENTI
 
