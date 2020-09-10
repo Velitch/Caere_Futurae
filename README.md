@@ -79,7 +79,7 @@ La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrasta
 
 ### Integrazione dell'opera moderna nel contesto urbano
 
-### Riqualificazione del territorio attraverso l'arte sostenibile 
+- Riqualificazione del territorio favorita dall'arte "accessibile"
 
 ## 05. COSTI
 
