@@ -11,6 +11,8 @@ _________
 
 [Echi d’acqua - Matera, 2019](https://www.youtube.com/watch?v=aKMj7FIYgTg)
 
+[Forme Immateriali di Michelangelo Lupone, installazione fontane](https://www.youtube.com/watch?v=wHoaJyRtKSQ&t=4s)
+
 _________
 
 # FOTO INSTALLAZIONI
