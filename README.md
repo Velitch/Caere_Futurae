@@ -19,3 +19,5 @@ Riscoperta e valorizzazione dei siti monumentali ed archeologici del territorio 
 Le attivitá sono pensate sia in forma permanente, quali per esempio installazioni fruibili gratuitamente durante tutto l'anno, sia in forma temporanea, quali concerti e mostre.
 
 ## 02. CHI SIAMO
+
+<img src="https://github.com/Velitch/Caere_Futurae/blob/master/Immagini/chi_siamo.jpg">
