@@ -39,23 +39,9 @@ __________
 
 # 03. SCULTURE MUSICALI-VISIVE
 
-[Sculture Sonore](https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/Davide_Tedesco_Sonic_Sculptures_Sculture_Sonore_Paper_di_presentazione.pdf)
+## SCULTURE MUSICALI-VISIVE
 
-__________
-
-# 04. LUNGOMARE DEI NAVIGATORI ETRUSCHI
-
-## IL SITO
-
-[GOOGLE MAPS - VISTA LUNGOMARE STATO ATTUALE](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9710306,12.0382249,3a,75y,324.67h,93.51t/data=!3m7!1e1!3m5!1s9UmKkDEJTEzfqNQ42WFsuQ!2e0!3e11!7i16384!8i8192!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
-
-[PROGETTO DI RIQUALIFICAZIONE DEL LUNGOMARE](quando ce lo manda egidi.chiara@gmail.com)
-
-__________
-
-# 05. COSTI
-
-__________
+[Sculture Sonore, D.Tedesco,2020 - link paper](https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/Davide_Tedesco_Sonic_Sculptures_Sculture_Sonore_Paper_di_presentazione.pdf)
 
 
 ### Breve descrizione
@@ -139,3 +125,21 @@ tramite tra le due o più arti che possono veramente render statica e immortale 
 e render dinamica un’opera statica, lasciando ampio margine di realizzazione ed interpretazione a
 tutti coloro che crederanno e penseranno che la loro arte possa arricchire culturalmente le opere
 qui descritte.
+
+
+__________
+
+# 04. LUNGOMARE DEI NAVIGATORI ETRUSCHI
+
+## IL SITO
+
+[GOOGLE MAPS - VISTA LUNGOMARE STATO ATTUALE](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9710306,12.0382249,3a,75y,324.67h,93.51t/data=!3m7!1e1!3m5!1s9UmKkDEJTEzfqNQ42WFsuQ!2e0!3e11!7i16384!8i8192!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
+
+[PROGETTO DI RIQUALIFICAZIONE DEL LUNGOMARE](quando ce lo manda egidi.chiara@gmail.com)
+
+__________
+
+# 05. COSTI
+
+__________
+
