@@ -26,7 +26,7 @@ _________
 
 ## Massimiliano Mascaro, Structure 1.2 - installazione audiovisiva olofonica 
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro_2.jpg" height = "300">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro.jpg"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/Structure_1_2_Mascaro_2.jpg">
 
 _________
 
@@ -38,10 +38,7 @@ _________
 
 ## ACQUA E SIMILI
 
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/acqua.jpeg" height = "300">
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni.jpg" height = "300">
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni1.jpeg" height = "300">
-<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni2.jpeg" height = "300">
+<img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/acqua.jpeg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni.jpg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni1.jpeg" height = "300"><img src = "https://github.com/Velitch/Caere_Futurae/blob/master/Lungomare%20dei%20Navigatori%20Etruschi/Idee/img/planofoni2.jpeg" height = "300">
 
 ## DOCUMENTI
 
