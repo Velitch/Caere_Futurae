@@ -5,7 +5,7 @@ __________
 # INDICE
 ## 01. CAERE FUTURAE
 ## 02. CHI SIAMO
-## 03. FONTANA DEL MASCHERONE
+## 03. LUNGOMARE DEI NAVIGATORI ETRUSCHI
 ## 04. VALORE SOCIALE
 ## 05. COSTI
 __________
@@ -31,17 +31,9 @@ Le attivitá sono pensate sia in forma permanente, quali per esempio installazio
 
 <img src="https://github.com/Velitch/Caere_Futurae/blob/master/Immagini/chi_siamo.jpg">
 
-## 03. FONTANA DEL MASCHERONE
+## 03. LUNGOMARE DEI NAVIGATORI ETRUSCHI
 
-### Storia del monumento
-
-anno: 1881
-
-Situata nell’attuale piazza Risorgimento, venne costruita nel 1881. Ha una struttura architettonica a facciata scandita su due livelli, il più alto, concluso da un timpano semicircolare, ospita un orologio. La porta inferiore, con parete a bugnato, racchiude tra due colonne addossate la fontana vera e propria, inserita in una nicchia ad arco. E’ caratterizzata da un mascherone e due animali marini ai lati che gettano acqua nella vasca sottostante. Al di sopra vi è lo stemma della città e una lapide marmorea incisa, che celebra il ritrovamento delle antiche falde acquifere etrusche di Cerveteri e la data di costruzione della stessa.
-
-### Installazione d’arte sonora - visiva
-
-La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrastante per la generazione degli eventi musicali e visivi. La sua identitá adattiva é sensibile alle stagioni, al meteo, al via vai delle persone in Piazza Risorgimento. In una lenta evoluzione condizionata dal trascorrere del tempo, l'opera esprime il suo carattere mutevole e contemporaneo, lasciando al visitatore la possibilitá di contemplarla in una forma coerente ma mai uguale a se stessa.
+[GOOGLE MAPS](https://www.google.com/maps/place/Lungomare+dei+Navigatori+Etruschi,+00052+Cerveteri+RM/@41.9714599,12.0357754,17z/data=!3m1!4b1!4m5!3m4!1s0x1328ab1212272d4b:0x38b7729fc1a2e10a!8m2!3d41.9714599!4d12.0379641)
 
 
 ## 04. VALORE SOCIALE
