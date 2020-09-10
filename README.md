@@ -79,20 +79,20 @@ La Fontana del Mascherone utilizza la scansione temporale dell'orologio sovrasta
 
 ### Integrazione dell'opera moderna nel contesto urbano
 
-- Riqualificazione del territorio favorita dall'arte "accessibile"
+- Riqualificazione del territorio favorita dall'arte "accessibile". Rispetto ed aumentazione del decoro dei siti storici attraverso l'arte multidisciplinare.
 
 ## 05. COSTI
 
-- x3 diffusori
-- x1 amplificatore
-- x1 scheda audio
-- x1 pc
-- x1 router/wifi
-- x2 sensore presenza
-- x2 arduino
-- x1 armadio/rack
+- x3 diffusori acustici - 1200
+- x1 amplificatore - 400
+- x1 scheda audio - 350
+- x1 pc - 1200
+- x1 router/wifi - 50
+- x2 sensore presenza - 20
+- x2 arduino - 60
+- x1 armadio/rack - 900
 - x1 proiettore
-- x1 gruppo di continuitá
-- cavi
+- x1 gruppo di continuitá - 180
+- cavi - 1000
 
 ## 06. CONCLUSIONI
