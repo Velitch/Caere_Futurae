@@ -45,10 +45,10 @@ __________
 
 __________
 
-## INSTALLAZIONI AUDIO VISIVE - ## Sculture Sonore, ### 2020, ### di Davide Tedesco
+## SCULTURE SONORE, 2020, di Davide Tedesco
 __________
 
-## Breve descrizione
+### Breve descrizione
 
 Sculture da realizzare in materiale risonante(da specificare e.g. in legno, vetroresina, acciaio o
 altro materiale), che attraverso la cavità interna ed un trasduttore(eccitatore elettrodinamico in
